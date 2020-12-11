@@ -7,3 +7,4 @@ Here is a brief explanation of the things learned from each project
 
 ### 1. Expanding cards project
   * A light project used as a refresher on css transitions with a touch of js
+  * Project consists of cards that expand on click
