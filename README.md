@@ -1,5 +1,5 @@
 # 50-projects
-practice projects for javascript
+Practice projects for javascript from Brad Traversy's "50 Projects In 50 days" Udemy course
 
 The goal of this repository is to practice the use of git in addition to building various small learning projects in html, css and javascript.
 
